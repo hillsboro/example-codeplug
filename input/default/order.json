@@ -2,7 +2,7 @@
     "zone": {
         "default": [
             "PNWDigital",
-            "PatnaHS.BM",
+            "Hotspot/BM",
 	    "Hillsboro/Analog VHF",
 	    "Hillsboro/Analog UHF",
 	    "Simplex/Analog VHF",
