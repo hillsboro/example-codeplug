@@ -11,12 +11,6 @@
         "expanded": [
         ],
         "exclude_expanded": [
-            "PNWDigital",
-            "Hotspot/BM",
-            "Hillsboro/Analog VHF",
-            "Hillsboro/Analog UHF",
-            "Simplex/Analog VHF",
-            "Simplex/Digital UHF"
         ]
     }
 }
