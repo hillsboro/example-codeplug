@@ -5,6 +5,8 @@ OUTPUT=${OUTPUT:-$DIR/../../OUTPUT}
 python -m dzcb \
     --pnwdigital \
     --default-k7abd \
+    --repeaterbook-state washington oregon \
+    --repeaterbook-proximity-csv "$DIR/prox.csv" \
     --k7abd $DIR/k7abd \
     --farnsworth-template-json "$DIR/example-md-uv380.json" \
     --order-json "$DIR/order.json" \
