@@ -9,6 +9,12 @@
 	    "Simplex/Digital UHF"
         ],
         "expanded": [
+            "Hotspot/BM",
+            "Portland/Sylvan",
+            "Hillsboro/Analog VHF",
+            "Hillsboro/Analog UHF",
+            "Simplex A VHF",
+            "Simplex D UHF"
         ],
         "exclude_expanded": [
         ]
