@@ -5,8 +5,10 @@
             "Hotspot/BM",
 	    "Hillsboro/Analog VHF",
 	    "Hillsboro/Analog UHF",
-	    "Simplex/Analog VHF",
-	    "Simplex/Digital UHF"
+	    "Simplex A VHF",
+	    "Simplex A UHF",
+            "Simplex D VHF",
+            "Simplex D UHF"
         ],
         "expanded": [
             "Hotspot/BM",
@@ -14,9 +16,23 @@
             "Hillsboro/Analog VHF",
             "Hillsboro/Analog UHF",
             "Simplex A VHF",
+            "Simplex A UHF",
+            "Simplex D VHF",
             "Simplex D UHF"
         ],
         "exclude_expanded": [
+            "Simplex DR UHF",
+	    "Ariel/Ariel VHF",
+            "BC:Vancouver/Sey",
+	    "BC:Squamish",
+            "BC:W.Vancvr/Ambl",
+            "Bellevue/Cougar",
+            "Bellingham UHF",
+            "Bellingham VHF",
+            "Biggs/Juniper Pt",
+            "Bordmn/GolG",
+            "Boistfort/BawFaw",
+            "Bremerton/Gold"
         ]
     }
 }
