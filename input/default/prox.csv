@@ -1,3 +1,3 @@
 Zone Name,Lat,Long,Distance,Unit,Band(2m;1.25m;70cm),Use,Operational Status
-Hillsboro/Analog VHF,45.5103469,-122.908723,35,miles,2m,OPEN,On-Air
-Hillsboro/Analog UHF,45.5103469,-122.908723,35,miles,70cm,OPEN,On-Air
+Hillsboro/Analog VHF,45.5103469,-122.908723,25,miles,2m,OPEN,On-Air
+Hillsboro/Analog UHF,45.5103469,-122.908723,25,miles,70cm,OPEN,On-Air
