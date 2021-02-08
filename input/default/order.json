@@ -3,7 +3,7 @@
         "default": [
             "Hillsboro/Analog VHF",
             "Hillsboro/Analog UHF",
-            "Hotspot/BM",
+            "Patna/Hotspot",
             "PNWDigital",
             "Portland/Buxton",
             "Simplex A VHF",
@@ -14,7 +14,7 @@
         "expanded": [
             "Hillsboro/Analog VHF",
             "Hillsboro/Analog UHF",
-            "Hotspot/BM",
+            "Patna/Hotspot",
             "Portland/Buxton",
             "Portland/Sylvan",
             "Simplex A VHF",
@@ -67,6 +67,9 @@
             "Pullman/Pullman",
             "Saint Maries ID",
             "Salem S/Prospect",
+	    "Seattle/Central",
+	    "Seattle/North",
+	    "Seattle/South",
             "Seattle/South1",
             "Seattle/Metro",
             "Sequim/Blyn Mtn",
