@@ -8,6 +8,8 @@ python -m dzcb \
     --k7abd $DIR/k7abd \
     --default-k7abd \
     --farnsworth-template-json "$DIR/example-md-uv380.json" \
+    --pnwdigital \
+    --seattledmr \
     --scanlists-json "$DIR/scanlists.json" \
     --order-json "$DIR/order.json" \
 $OUTPUT/$(basename "$DIR")

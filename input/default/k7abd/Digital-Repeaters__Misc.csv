@@ -1,4 +1,4 @@
-Zone Name,Comment,Power,RX Freq,TX Freq,Color Code,Idaho,India,Local 1,Local 2,New Delhi,Oregon,Oregon TAC,PNW 1,PNW 2,PNWR,Washington,Washington 2,Worldwide
-Portland/Buxton;POB,PNWD,High,444.025,449.025,9,1,-,1,2,-,1,-,1,2,-,1,2,-
-Vancuvr/LarchMtn;VCL,Vancouver,High,442.9625,447.9625,1,-,-,-,-,-,1,2,-,-,2,1,-,-
-India/Delhi;IND,VU2HUB,High,435.67,434.07,7,-,1,-,-,1,-,-,-,-,-,-,-,1
+Zone Name,Comment,Power,RX Freq,TX Freq,Color Code,Alaska,Idaho,India,Local 1,Local 2,New Delhi,Oregon,Oregon TAC,PNW 1,PNW 2,PNWR,Washington,Washington 2,Worldwide
+Portland/Buxton;POB,PNWD,High,444.025,449.025,9,-,-,-,1,2,-,1,-,1,2,-,1,2,-
+Vancuvr/LarchMtn;VCL,Vancouver,High,442.9625,447.9625,1,1,1,-,-,-,-,1,2,-,-,2,1,-,-
+India/Delhi;IND,VU2HUB,High,435.67,434.07,7,-,-,1,-,-,1,-,-,-,-,-,-,-,1

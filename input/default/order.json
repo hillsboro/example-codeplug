@@ -1,10 +1,9 @@
 {
     "zone": {
         "default": [
-            "Hillsboro/Analog VHF",
-            "Hillsboro/Analog UHF",
-            "Patna/Hotspot",
-            "Portland/Buxton",
+            "Portland/Analog VHF",
+            "Portland/Analog UHF",
+            "Personal/Hotspot",
             "PNWDigital",
             "Simplex A VHF",
             "Simplex A UHF",
@@ -12,9 +11,9 @@
             "Simplex D UHF"
         ],
         "expanded": [
-            "Hillsboro/Analog VHF",
-            "Hillsboro/Analog UHF",
-            "Patna/Hotspot",
+            "Portland/Analog VHF",
+            "Portland/Analog UHF",
+            "Personal/Hotspot",
             "Portland/Buxton",
             "Portland/Sylvan",
             "Simplex A VHF",
@@ -23,8 +22,8 @@
             "Simplex D UHF"
         ],
         "exclude_expanded": [
-            "Simplex DR UHF",
-            "Ariel/Ariel VHF",
+	    "APRS - Analog",
+    	    "Ariel/Ariel VHF",
             "BC:NewWstmnstr",
             "BC:Squamish",
             "BC:Vancouver/Sey",
@@ -34,10 +33,15 @@
             "Bellingham UHF",
             "Bellingham VHF",
             "Biggs/Juniper Pt",
+            "BM Ferndale",
+            "BM Port Townsend",
+            "BM Scappoose",
             "Bordmn/GolG",
             "Boistfort/BawFaw",
             "Bremerton/Gold",
             "Buck Mt.",
+            "CC Port Angeles",
+            "CC Sequim",
             "Cascad Lock/Hill",
             "Chinook/Megler U",
             "Coeur d'Alene",
@@ -73,7 +77,9 @@
             "Seattle/South1",
             "Seattle/Metro",
             "Sequim/Blyn Mtn",
+            "Sequim KC7EQO",
             "Shelton/SpncrLk",
+            "Simplex DR UHF",
             "Snoq/RttlsnakeU",
             "Snoq/RttlsnakeV",
             "Spokane/Lkout U",
@@ -88,14 +94,11 @@
             "Tri-Citi/JOJ UHF",
             "Tri-Citi/JOJ VHF",
             "Tulalip/Tulalip",
+	    "UL FRS NBFM",
+	    "UL MURS",
+	    "Vancuvr/LarchMtn",
             "Wenatchee/LilBad",
-            "Yakima/Elephant",
-            "BM Port Townsend",
-            "CC Port Angeles",
-            "CC Sequim",
-            "Sequim KC7EQO",
-            "BM Ferndale",
-            "BM Scappoose"
+            "Yakima/Elephant"
         ]
     }
 }
