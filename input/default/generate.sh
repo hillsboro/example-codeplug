@@ -13,6 +13,7 @@ python -m dzcb \
     --repeaterbook-state washington oregon \
     --repeaterbook-name-format '{Landmark} {Frequency}' \
     --scanlists-json "$DIR/scanlists.json" \
+    --include "$DIR/include.csv" \
     --exclude "$DIR/exclude.csv" \
     --order "$DIR/order.csv" \
     --replacements "$DIR/replacements.csv" \
