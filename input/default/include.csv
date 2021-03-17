@@ -1,7 +1,9 @@
 Channels,Contacts,Zones
-POS,,Sylvan
-COL,,Corbett
-POB,,Buxton
-HOB,,Hood River
-PHS,,Hotspot
-SPH,,Salem
+\*POS,,
+\*COL,,
+\*POB,,
+\*HOB,,
+\*PHS,,
+\*SPH,,
+,,\*VHF
+,,\*UHF
