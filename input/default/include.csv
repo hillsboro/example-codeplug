@@ -1,9 +1,7 @@
 Channels,Contacts,Zones
-\*POS,,
-\*COL,,
-\*POB,,
-\*HOB,,
-\*PHS,,
-\*SPH,,
-,,\*VHF
-,,\*UHF
+"Pdx/Analog VHF",,
+"Pdx/Analog UHF",,
+"Patna/Hotspot",,
+"Portland/Buxton",,
+"Portland/Sylvan",,
+"Salem S/Prospect",,
